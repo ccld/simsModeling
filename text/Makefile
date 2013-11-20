@@ -1,5 +1,5 @@
 make:
-        pdflatex example.tex -output-format=pdf
+        pdflatex letter_simsModeling.tex -output-format=pdf
         make clean
 
 clean:
